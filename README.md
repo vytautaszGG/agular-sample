@@ -1,3 +1,6 @@
+# Angular Sample
+### Sample application that will help you make sure that you are fully ready for the remote task!
+
 1. Make sure you have Node.JS and NPM installed on your machine.
 2. Make sure you have Angular CLI installed globally `npm install -g @angular/cli`.
 3. Run `npm install` inside the root of this project.
